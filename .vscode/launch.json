@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lyrusdoctolero/Downloads/basics-and-fundamentals-c",
+      "program": "/Users/lyrusdoctolero/Downloads/basics-and-fundamentals-c/build/Debug/outDebug"
+    }
+  ]
+}
